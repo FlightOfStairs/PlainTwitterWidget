@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Plain Twitter Widget</string>
+
+    <string name="account_preferences">Preferences</string>
+    <string name="account_preference_title">Twitter Account</string>
+    <string name="account_preference_description">Choose twitter account</string>
+    <string name="about">By Alistair Smith</string>
+
+</resources>
